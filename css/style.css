@@ -1,0 +1,187 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+a{
+	text-decoration: none;
+
+}
+p{
+	line-height: 1.8;
+}
+.header{
+	padding-top: 12px;
+	padding-bottom: 500px;
+	background-image: url(../img/illustrasi_header.png);
+	background-repeat: no-repeat;
+}
+.container{
+	max-width: 1100px;
+	margin: 0 auto;
+	background
+}
+.site__logo{
+	margin-right:auto;
+}
+.navbar__site{
+	margin-top:40px; 
+	display: flex;
+	align-items: center;
+}
+.navbar-site__list{
+	display: flex;
+    list-style-type: none;
+
+}
+.navbar-site__iteam{
+	margin-right: 87px;
+}
+.navbar-site__link{
+	font-size: 18px;
+	color:#fff;
+}
+.btn{
+    display: inline-block;
+    font-weight: bold;
+	color: #d3f1fc;
+    padding: 12px 40px 13px 40px;
+	background-color: #2559a7;
+	border:2px solid transparent;
+	border-radius: 27px;
+}
+.btn:hover{
+	color: #2559a7; 
+	background-color: white; 
+	border:2px solid #2559a7;
+}
+
+.header-main__title{
+	color: #112d58;
+	margin-top: 220px;
+}
+.main__text{
+	color: #958fab;
+	font-size: 20px;
+}
+.search{
+	padding:28px 256px 28px 53px;
+    box-shadow: 1px 1px 50px 1px #f3f3f3;;
+	border-radius: 15px;
+}
+.Find-your-passion{
+	display: flex;
+}
+.section-one__main{
+	width: 560px;
+	margin-left: 90px;
+	margin-top: 20px;
+    line-height: 1.8;
+   
+}
+.section-one-main__text{
+	color: #8597b4;
+	font-size: 22px;
+}
+
+.section-one-main__title{
+	color:#112d58;
+	font-weight: bold;
+	font-size: 46px
+}
+.section__two{
+	display: flex;
+	padding-top: 135px;
+	align-items: center;
+}
+.Find-your-passion{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.MILLION-OF-JOBS{
+	width: 550px;
+}
+.img__sectwo{
+ width: 520px;
+ 
+}
+.img__secone{
+	width: 500px;
+   margin-top: auto;
+}
+.section-two-main__title{
+	color: #112d58;
+	font-size: 42px;
+}
+.section-two-main__text{
+	margin-top: 60px;
+	color: #9aa5ba;
+	width: 400px;
+}
+.section-3{
+	text-align: center;
+	padding-top: 134px;
+}
+.section-3__title{
+	font-size: 42px;
+	color: #112d58;
+
+
+}
+.section-3__text{
+	color: #112d58;
+	font-size: 22px;
+}
+.section-3__boxs{
+	max-width: 80%;
+	margin: 0 auto;
+
+}
+.section-3__box1{
+	display: flex;
+}
+.img__rect{
+	width: 300px;
+	height: 350px;
+	
+}
+.section-4{
+	padding-top: 12px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	 margin-bottom: 82px;
+}
+.img__logos{
+	 width: 500px;
+}
+.section-4__left{
+	width: 500px;
+}
+.section-4__title{
+	color: #112d58;
+	font-size: 38px;
+}
+.section-4__text{
+	color: #949cac;
+	font-size: 18px;
+}
+.section-5{
+	text-align: center;
+}
+.section-5__img{
+	width: 600px;
+}
+.section-5__title{
+	color: #112d58;
+	font-size:42px;
+}
+.section-5__text{
+	color: #8190a7;
+	font-size: 22px;
+}
